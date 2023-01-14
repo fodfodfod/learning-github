@@ -1,0 +1,3 @@
+#this file is used to tell github what files to ignore (not to track)
+# .bin files are compiled code and i don't want that
+*.bin
